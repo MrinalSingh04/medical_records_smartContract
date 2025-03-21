@@ -94,8 +94,11 @@ npx hardhat run scripts/deploy.js --network sepolia
 ## 📖 Usage
 
 1️⃣ Patients and doctors register on the platform.
+
 2️⃣ Patients grant access to specific doctors.
+
 3️⃣ Doctors update medical records securely.
+
 4️⃣ Patients view their updated records.
 
 ## 📜 License
